@@ -10,5 +10,5 @@ In the above dashboard, the total revenue generated in 2017 is $92.88M, and the 
 The sales team faces difficulties in accessing real-time sales performance data, leading to delays in decision-making and a lack of clarity on key performance indicators (KPIs). Existing sales reports are static, making it hard to analyze trends, track goals, and detect opportunities for improvement.
 
 
-<h1 align="center"><font color="blue">Charul</font></h1>
+
 
