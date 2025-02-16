@@ -43,7 +43,7 @@ Excel (for initial data collection and preparation)
 ## Features
 
 * Total Revenue & Sales Overview: Displays overall revenue and sales quantity for all markets and years.
-* Year-wise Filtering: Filter data by year (2017, 2018, 2019) for detailed insights.
+* Year-wise Filtering: Filter data by year (2017, 2018, 2019,2020) for detailed insights.
 
 * Revenue Trend Over Time: Time-series chart showcasing revenue progression across months.
 * Interactive Dashboard: User-friendly design with customizable filters for data exploration.
